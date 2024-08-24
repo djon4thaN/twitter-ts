@@ -20,5 +20,3 @@ $ npm run start
 
 
 ```
-
-<a href="#top">Back to top</a>
