@@ -1,6 +1,6 @@
 
 
-The following tools were used in this project:
+Tools used in the project:
 
 - [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
